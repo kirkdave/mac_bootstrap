@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/dave.kirk/Projects/HALO/amazon-linux-2-vb/seedconfig'
+let g:netrw_dirhist_1='/Users/dave.kirk/Projects/HALO/test-sidekick-build/DockerServiceDescription'

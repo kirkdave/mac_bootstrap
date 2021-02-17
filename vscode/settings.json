@@ -1,0 +1,13 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Fira Code', 'Fira Mono', 'SF Mono', 'Menlo'",
+    "editor.fontSize": 14,
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.detectIndentation": false,
+    "editor.fontWeight": 300,
+    "window.zoomLevel": 0,
+    "files.insertFinalNewline": true
+}
